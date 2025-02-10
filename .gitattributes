@@ -1,0 +1,2 @@
+*.jar filter=lfs diff=lfs merge=lfs -text
+Mind[[:space:]]Scape/app filter=lfs diff=lfs merge=lfs -text
