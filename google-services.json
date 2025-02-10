@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "469148003290",
+    "project_id": "mind-scape1",
+    "storage_bucket": "mind-scape1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:469148003290:android:0e027ecf534e2ad023eee3",
+        "android_client_info": {
+          "package_name": "com.example.mindscape"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "469148003290-spg0l23q8f7m0os5d5k2dddo96ijm56f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mindscape",
+            "certificate_hash": "b5bc4db6cd1d29591b5eaba043b890b8fec3e81e"
+          }
+        },
+        {
+          "client_id": "469148003290-oi0uclnem8bk3s820vornhvkfri5uq55.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByQo6mqWFW5J-cVlDhLQf_z6TSBFqIgig"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "469148003290-nm5m39rtqhimh65goqevqop1blqoj9he.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
